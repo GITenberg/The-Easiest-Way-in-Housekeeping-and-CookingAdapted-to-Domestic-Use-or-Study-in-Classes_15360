@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2222
     wikipedia: http://en.wikipedia.org/wiki/Helen_Stuart_Campbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15360#The-Easiest-Way-in-Housekeeping-and-CookingAdapted-to-Domestic-Use-or-Study-in-Classes
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2005-03-14'
 gutenberg_type: Text
