@@ -1,0 +1,35 @@
+_repo: The-Easiest-Way-in-Housekeeping-and-CookingAdapted-to-Domestic-Use-or-Study-in-Classes_15360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, Helen
+    aliases:
+    - Campbell, Helen Stuart, Mrs.
+    - Wheaton, Campbell
+    - Weeks, Helen C. (Helen Campbell)
+    birthdate: 1839
+    deathdate: 1918
+    gutenberg_agent_id: '2222'
+    url: http://www.gutenberg.org/2009/agents/2222
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Stuart_Campbell
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home economics'
+- !lcsh 'Cooking'
+- !lcc 'TX'
+title: 'The Easiest Way in Housekeeping and Cooking
+
+  Adapted to Domestic Use or Study in Classes'
+url: http://www.gutenberg.org/ebooks/15360
